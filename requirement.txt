@@ -1,0 +1,11 @@
+langchain
+faiss-cpu
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+torch
+unstructured[local-inference]
+pypdf
+pikepdf
+python-magic-bin
+lxml
